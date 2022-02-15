@@ -1,0 +1,17 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+*.sqlite3
+media/
+
+# Python #
+*.py[cod]
+*$py.class
+
+# Environments #
+venv/
+
+# Visual Studio Code #
+.vscode/
